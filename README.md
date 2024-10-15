@@ -2,7 +2,10 @@
 
 ###
 
-<p align="left">My name is Matei and I'm a tech enthusiast , from England!</p>
+<p align="left">
+I’m a coding enthusiast exploring the world of programming, currently diving into Python 🐍 and C++. My journey began in Unity 🎮 with C# during lockdown, and I’ve also dabbled in HTML 🌐 and JavaScript 💻. Fluent in Romanian and English, I’m excited to take on new challenges and create awesome projects!
+
+</p>
 
 ###
 
